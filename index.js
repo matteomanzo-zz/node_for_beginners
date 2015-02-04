@@ -1,3 +1,3 @@
-var server = require("./NodeServer.js");
+var server = require("./server.js");
 
 server.start();
